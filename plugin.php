@@ -3,7 +3,7 @@
  * Plugin Name:       Hostaway Integration
  * Plugin URI:        https://github.com/thanhdat5/hostaway-integration
  * Description:       WordPress Plugin for Hostaway. Set up dynamic room pricing rules.
- * Version:           0.0.1
+ * Version:           0.0.3
  * Requires at least: 5.7
  * Requires PHP:      8.0
  * Author:            Hiplab
